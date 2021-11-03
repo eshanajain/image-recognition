@@ -1,0 +1,30 @@
+.heading{
+    width :80%;
+    font-size: 22px;
+}
+body{
+    background-color:aliceblue;
+    color:black
+}
+.name_of_objects{
+    color:aqua;
+}
+.button_1{
+    background-color:aquamarine;
+    color:azure
+}
+.button_2{
+    background-color:beige;
+    color:black;
+}
+#camera{
+    width: 350px;
+    height:300px;
+    border:2px dashed  blue;
+}
+#result_object_name{
+    color:blueviolet
+}
+#result_object_accuracy{
+    color:brown
+}
